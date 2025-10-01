@@ -8,4 +8,4 @@ Specifically, we explore how JSON API works and send an HTTP request to the serv
 
 The output product will look like this: 
 <p align="center">
-  <img title="Application" alt="Alt text" src="app.png" width="900" height="530">
+  <img title="Application" alt="Alt text" src="app.jpg" width="900" height="1029">
