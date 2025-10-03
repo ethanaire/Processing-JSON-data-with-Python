@@ -9,3 +9,5 @@ Specifically, we explore how JSON API works and send an HTTP request to the serv
 The output product will look like this: 
 <p align="center">
   <img title="Application" alt="Alt text" src="app.jpg" width="900" height="1029">
+
+This project corresponds directly to [Storing, Retrieving, and Processing JSON data with Python](https://www.coursera.org/learn/storing-retrieving-and-processing-json-data-with-python/home/welcome) project created by **Coursera**!
